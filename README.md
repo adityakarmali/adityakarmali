@@ -1,95 +1,194 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&lines=Aditya+Karmali;Mechanical+Engineer+%C3%97+Python;CAD+%7C+Data+Analytics+%7C+Simulation" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Aditya+Karmali+%F0%9F%91%8B;Mechanical+Engineer+%C3%97+Python;CAD+%C2%B7+Data+Analytics+%C2%B7+Simulation" alt="Typing intro" />
 
-**Mechanical Engineering undergrad at BIT Sindri (JUT), batch of 2027**
-Building the bridge between machines and data.
+### Mechanical Engineering undergrad · BIT Sindri (JUT) · Batch 2027
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-karmali-1400482b6)
-[![Email](https://img.shields.io/badge/Email-Say_hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityakarmali42@gmail.com)
-[![ScoreSync](https://img.shields.io/badge/Live_Project-ScoreSync-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://score-sync-eight.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-karmali-1400482b6)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityakarmali42@gmail.com)
+[![ScoreSync](https://img.shields.io/badge/ScoreSync_Live-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://score-sync-eight.vercel.app)
 
 </div>
 
----
+<br>
 
-## `about.py`
+## 👤 About Me
 
-```python
-class Aditya:
-    degree   = "B.Tech Mechanical Engineering, BIT Sindri (JUT)"
-    origin   = "Mechanical first, code second"
-    core     = ["SolidWorks", "Siemens NX", "MATLAB", "Python"]
-    learning = ["NumPy", "Pandas", "Matplotlib", "Machine Learning"]
-    goal     = "Use code to make engineering work faster and smarter"
+<table>
+<tr>
+<td width="50%" valign="top">
 
-    def honest_note(self):
-        return "Not from a CS background. Every project here is a real step in my learning."
-```
+🎓 **Education**<br>
+B.Tech Mechanical Engineering<br>
+BIT Sindri, Dhanbad (JUT)
 
----
+🔧 **Background**<br>
+Mechanical first, coding second
 
-## 🧰 Toolbox
+</td>
+<td width="50%" valign="top">
 
-| | Tools | Where I stand |
-|---|---|---|
-| ⚙️ **Design (CAD)** | SolidWorks, Siemens NX | Solid working knowledge, Siemens NX certified |
-| 🧮 **Simulation** | MATLAB | Completed the MathWorks Onramp |
-| 🐍 **Programming** | Python | Core language learned |
-| 📊 **Data** | NumPy, Pandas, Matplotlib | Currently learning, using them on small projects |
-| 🌐 **Web** | TypeScript, Vite | Used for one project (ScoreSync) |
+🌱 **Currently learning**<br>
+NumPy · Pandas · Matplotlib
 
-<sub>I only list what I have actually used or studied. More tools will be added as I genuinely learn them.</sub>
+🎯 **Goal**<br>
+Use Python to make engineering work faster and smarter
 
----
+</td>
+</tr>
+</table>
 
-## 🚀 Featured Project
+> Not from a CS background. Every project here is an honest step in my learning journey.
 
-### [ScoreSync](https://github.com/adityakarmali/ScoreSync)
-A web-based academic tool built for students, live on Vercel.
-Built with **TypeScript + Vite**.
+<br>
 
-[![Open Live](https://img.shields.io/badge/Open-Live_Demo-38BDF8?style=flat-square&logo=vercel&logoColor=white)](https://score-sync-eight.vercel.app)
-[![Repo](https://img.shields.io/badge/View-Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/adityakarmali/ScoreSync)
+## 🧰 Skills
 
-I also started a digital repository of semester-wise notes and previous year question papers for my fellow students.
+<table>
+<tr>
+<th width="25%">Area</th>
+<th>Tools</th>
+<th width="22%">Status</th>
+</tr>
 
----
+<tr>
+<td>⚙️ <b>CAD & Design</b></td>
+<td>
+<img src="https://img.shields.io/badge/SolidWorks-E2231A?style=for-the-badge&logo=dassaultsystemes&logoColor=white" />
+<img src="https://img.shields.io/badge/Siemens_NX-009999?style=for-the-badge&logo=siemens&logoColor=white" />
+</td>
+<td>✅ Certified (NX)</td>
+</tr>
 
-## 🛣️ Experience & Certifications
+<tr>
+<td>🧮 <b>Simulation</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=matlab" height="40" />
+</td>
+<td>✅ MathWorks Onramp</td>
+</tr>
 
-```text
-INTERNSHIP & TRAINING
-  ┃  Tata Steel Limited (6 weeks)
-  ┃  Data Analytics & Visualization for the New Bar Mill
-  ┃
-  ┃  Deloitte via Forage (self-paced)
-  ┃  Data Analytics Job Simulation
+<tr>
+<td>🐍 <b>Programming</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=py" height="40" />
+</td>
+<td>✅ Core completed</td>
+</tr>
 
-CERTIFICATIONS & COURSES
-  ┃  Siemens NX CAD Certification (Siemens & Government of Jharkhand)
-  ┃  MATLAB Onramp, Programming & Simulation (MathWorks)
-  ┃  AI & ML on Geodata Analysis (ISRO online course)
-  ┃  Deep Learning in Ecological Studies (ISRO workshop)
-  ┃  AI for Mechanical Engineers (University of Michigan, Coursera)
-```
+<tr>
+<td>📊 <b>Data Libraries</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=numpy,pandas" height="40" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+</td>
+<td>🔄 Learning</td>
+</tr>
 
----
+<tr>
+<td>🌐 <b>Web</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=ts,vite,vercel" height="40" />
+</td>
+<td>🛠️ Used in ScoreSync</td>
+</tr>
 
-## 🎯 What I'm Working Towards
+<tr>
+<td>🧑‍💻 <b>Dev Tools</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" height="40" />
+</td>
+<td>🛠️ Daily use</td>
+</tr>
+</table>
 
-- [x] Finish core Python
+<sub>Only tools I have actually used or studied are listed.</sub>
+
+<br>
+
+## 🚀 Projects
+
+<table>
+<tr>
+<td width="8%" align="center">📚</td>
+<td>
+<b><a href="https://github.com/adityakarmali/ScoreSync">ScoreSync</a></b> &nbsp;
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+<br>
+Web-based academic tool for students, deployed on Vercel.<br>
+<a href="https://score-sync-eight.vercel.app">🔗 Live demo</a> · <a href="https://github.com/adityakarmali/ScoreSync">💻 Source</a>
+</td>
+</tr>
+<tr>
+<td width="8%" align="center">📝</td>
+<td>
+<b>Notes Repository</b> &nbsp;
+<img src="https://img.shields.io/badge/Community-Initiative-2EA44F?style=flat-square" />
+<br>
+Digital collection of semester-wise notes and previous year question papers for fellow students.
+</td>
+</tr>
+</table>
+
+<br>
+
+## 💼 Experience
+
+<table>
+<tr>
+<th width="8%"></th>
+<th>Organization</th>
+<th>Role / Project</th>
+<th width="18%">Duration</th>
+</tr>
+<tr>
+<td align="center">🏭</td>
+<td><b>Tata Steel Limited</b></td>
+<td>Data Analytics & Visualization for New Bar Mill</td>
+<td>6 weeks</td>
+</tr>
+<tr>
+<td align="center">📈</td>
+<td><b>Deloitte (Forage)</b></td>
+<td>Data Analytics Job Simulation</td>
+<td>Self-paced</td>
+</tr>
+</table>
+
+<br>
+
+## 🏅 Certifications & Courses
+
+<table>
+<tr>
+<th width="8%"></th>
+<th>Certification / Course</th>
+<th>Issued by</th>
+</tr>
+<tr><td align="center">⚙️</td><td>Siemens NX CAD Certification</td><td>Siemens & Govt. of Jharkhand</td></tr>
+<tr><td align="center">🧮</td><td>MATLAB Onramp: Programming & Simulation</td><td>MathWorks</td></tr>
+<tr><td align="center">🛰️</td><td>AI & ML on Geodata Analysis</td><td>ISRO (online course)</td></tr>
+<tr><td align="center">🌿</td><td>Deep Learning in Ecological Studies</td><td>ISRO (workshop)</td></tr>
+<tr><td align="center">🤖</td><td>AI for Mechanical Engineers</td><td>University of Michigan (Coursera)</td></tr>
+</table>
+
+<br>
+
+## 🎯 Roadmap
+
+- [x] Complete core Python
 - [ ] Get comfortable with NumPy, Pandas and Matplotlib
 - [ ] Build mechanical + Python projects: stress-strain plots, beam deflection, gear ratio tools
 - [ ] Share SolidWorks and NX models here with short write-ups
 - [ ] Explore machine learning for engineering problems
 
----
+<br>
 
 <div align="center">
 
-**Open to internships and collaborations in mechanical design, CAD and data analytics.**
+**🤝 Open to internships and collaborations in mechanical design, CAD and data analytics**
 
-<sub>Learning in public. Code and CAD, one project at a time.</sub>
+<sub>Learning in public · Code and CAD, one project at a time</sub>
 
 </div>
