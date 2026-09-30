@@ -26,10 +26,11 @@ I'm a mechanical engineering student who enjoys mixing core engineering with cod
 
 ## 🚀 Projects
 
-| Project | What it does |
-|---|---|
-| 🧮 **Marks Calculator** | A web-based marks calculator built and deployed for fellow students |
-| 📚 **Digital Notes Repository** | Semester-wise notes and previous year question papers, organized and shared for the batch |
+### 🧮 Marks Calculator
+A web-based marks calculator I built and deployed for fellow students, so they can check their marks quickly without doing the math by hand.
+
+### 📚 Digital Notes Repository
+Semester-wise notes and previous year question papers, organized in one place and shared with the batch.
 
 ---
 
